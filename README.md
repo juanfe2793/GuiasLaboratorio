@@ -1,9 +1,10 @@
 # GuiasLaboratorio
-En este repositorio se encuentran las guías de laboratorios para instalar, configurar, aprovisionar diferentes componentes tecnologicos que utilizo durante el desarrollo de mis cursos en la Universidad. 
 
-Están guías se irán actualizando de manera constante y serán migradas a formatos markdown para facilitar el trabajo colaborativo. 
+En este repositorio se encuentran las guías de laboratorios para instalar, configurar, aprovisionar diferentes componentes tecnologicos que utilizo durante el desarrollo de mis cursos en la Universidad.
 
-## Contenido de las guías.
+Están guías se irán actualizando de manera constante y serán migradas a formatos markdown para facilitar el trabajo colaborativo.
+
+## Contenido de las guías
 
 1. AWS.
     * Cloud Formation - Introduction Guide.
